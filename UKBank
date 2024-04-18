@@ -1,0 +1,19 @@
+# uphold
+DOMAIN-SUFFIX,uphold.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-KEYWORD,uphold
+
+# wise
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,fra-01.braze.eu
+DOMAIN-KEYWORD,wise
+
+# monzo
+DOMAIN-SUFFIX,monzo.com
+DOMAIN-SUFFIX,monzo.statuspage.io
+DOMAIN-SUFFIX,ws-eu.pusher.com
+DOMAIN-KEYWORD,monzo
+
+# trading 212
+DOMAIN-SUFFIX,trading212.com
+DOMAIN-KEYWORD,trading212
