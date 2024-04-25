@@ -13,6 +13,18 @@ DOMAIN-SUFFIX,monzo.statuspage.io
 DOMAIN-SUFFIX,ws-eu.pusher.com
 DOMAIN-KEYWORD,monzo
 
-# trading 212
+# trading212
 DOMAIN-SUFFIX,trading212.com
 DOMAIN-KEYWORD,trading212
+
+# freetrade
+DOMAIN-SUFFIX,freetrade.io
+DOMAIN-KEYWORD,freetrade
+
+# ifastgb
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-KEYWORD,ifastgb
+
+# paysend
+DOMAIN-SUFFIX,paysend.io
+DOMAIN-KEYWORD,paysend
