@@ -28,3 +28,7 @@ DOMAIN-KEYWORD,ifastgb
 # paysend
 DOMAIN-SUFFIX,paysend.io
 DOMAIN-KEYWORD,paysend
+
+# Lemfi
+DOMAIN-SUFFIX,lemonade.finance
+DOMAIN-KEYWORD,lemonade
