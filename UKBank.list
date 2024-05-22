@@ -32,3 +32,8 @@ DOMAIN-KEYWORD,paysend
 # Lemfi
 DOMAIN-SUFFIX,lemonade.finance
 DOMAIN-KEYWORD,lemonade
+
+# coinbase
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coinbasecdn.net
+DOMAIN-KEYWORD,coinbase
