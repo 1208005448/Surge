@@ -37,3 +37,8 @@ DOMAIN-KEYWORD,lemonade
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coinbasecdn.net
 DOMAIN-KEYWORD,coinbase
+
+# zilch
+DOMAIN-SUFFIX,payzilch.com
+DOMAIN-KEYWORD,zilch
+DOMAIN-KEYWORD,payzilch
